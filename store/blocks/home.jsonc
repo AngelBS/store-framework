@@ -36,7 +36,7 @@
   "flex-layout.row": {
     "children": [
       "info-card#rethink",
-      "flex-layout.col#promo"
+      "flex-layout.col#banner"
     ]
   },
   "info-card#rethink": {
@@ -48,7 +48,7 @@
       "textPosition": "center"
     }
   },
-  "flex-layout.col#promo": {
+  "flex-layout.col#banner": {
     "children": [
       "image#electronics",
       "image#major-appliance"
